@@ -1,0 +1,47 @@
+"depots"
+{
+	"209001"
+	{
+		"DecryptionKey" "f5c100e9d6d4f1a524c3704ff3ef0e14933ca21f52c57fb607302527856d99ea"
+	}
+	"209002"
+	{
+		"DecryptionKey" "bfa7a84d592cab2693fe595a5f60612759a409377e68b01dff493425fc710c8f"
+	}
+	"209003"
+	{
+		"DecryptionKey" "a77395939294ede504549b276cf392f33229c12cf25a92640d658904b740594d"
+	}
+	"209004"
+	{
+		"DecryptionKey" "a02b22c7093dbc7c27960996cbe5b8d7e84d3249e0fb37614c803468ad87b989"
+	}
+	"209005"
+	{
+		"DecryptionKey" "e0bf4517c3964dac1250280f7d11e70cf2789347ae475200ed8f3e8766bfa4b9"
+	}
+	"209006"
+	{
+		"DecryptionKey" "ac849826385f5ab7fbcebe89dfe2765bb2e42f877d59293814f3320e76a6199d"
+	}
+	"237619"
+	{
+		"DecryptionKey" "9e975f440061a632e2632cbab6381d062a0377697f9cd8b5b4baae0561781306"
+	}
+	"237620"
+	{
+		"DecryptionKey" "984bd32ad0fedd1bd5ba00eecb5581ef6bdb0de49dfc802bf3c85ebb776a6965"
+	}
+	"237621"
+	{
+		"DecryptionKey" "dbe0682e42186c4645b17cbef630152fcd945bf8db52af15a9e698f179203f9b"
+	}
+	"257070"
+	{
+		"DecryptionKey" "90d24fd39def59cc38c2b91ee308ec8a53e01970f72a6942499d7018bf253a96"
+	}
+	"277830"
+	{
+		"DecryptionKey" "6c15ae569ddecfe0f84c2fa337cc7483e124646a7c616bac6ee548ce6f6a8375"
+	}
+}
